@@ -9,6 +9,8 @@ Qiskit is an open source SDK for working with quantum computers at the level of 
 
 [**The Qiskit Textbook**](https://qiskit.org/textbook/preface.html) is one of the best places to start learning and will teach you the concepts of quantum computing while you learn to use the Qiskit SDK.
 
+You can also contribute to the development of Qiskit [here](https://github.com/qiskit)
+
 ## Qiskit Community
 The Qiskit community is one of the world's largest quantum computing communities. Here's how you can get involved
 * [Join the Qiskit Slack](https://ibm.co/joinqiskitslack)
