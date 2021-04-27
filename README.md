@@ -13,7 +13,7 @@ You can also contribute to the development of Qiskit [here](https://github.com/q
 
 ## Qiskit Community
 The Qiskit community is one of the world's largest quantum computing communities. Here's how you can get involved
-* [Join the Qiskit Slack](https://ibm.co/joinqiskitslack)
+* [Join the Qiskit Slack](https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g)
 * [Attend Qiskit Events](https://qiskit.org/events)
 * [Follow us on Twitter](https://twitter.com/Qiskit)
 
