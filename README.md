@@ -24,7 +24,7 @@ Don't forget to check out the [Qiskit Advocates Application Guide](https://githu
 
 ## Career
 Quantum Computing is an interdisciplinary field where people with a diverse skillset collaborate. Learn how to get a job in Quantum Computing with the links below.
-* [How to Get a Job in Quantum Computing - Career Pannel](https://www.youtube.com/watch?v=7dfw8k2p1to)
+* [How to Get a Job in Quantum Computing - Career Panel](https://www.youtube.com/watch?v=7dfw8k2p1to)
 * [The Hitchhiking Cat’s Guide to Getting a Job in Quantum Computing](https://medium.com/qiskit/the-hitchhiking-cats-guide-to-getting-a-job-in-quantum-computing-da7e3bb9ff64)
 * [We Asked Experts Their Advice for Getting a Job in Quantum Computing](https://medium.com/qiskit/we-asked-experts-their-advice-for-getting-a-job-in-quantum-computing-2f55e9785a6b)
 
