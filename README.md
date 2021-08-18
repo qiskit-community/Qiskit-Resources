@@ -12,7 +12,7 @@ Qiskit is an open source SDK for working with quantum computers at the level of 
 You can also contribute to the development of Qiskit [here](https://github.com/qiskit)
 
 ## Qiskit Community
-The Qiskit community is one of the world's largest quantum computing communities. Here's how you can be a part of the Qiskit community.
+The Qiskit community is one of the world's largest quantum computing communities. Here's how you can join us!
 * [Join the Qiskit Slack](https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g)
 * [Attend Qiskit Events](https://qiskit.org/events)
 * [Follow us on Twitter](https://twitter.com/Qiskit)
