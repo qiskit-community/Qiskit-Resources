@@ -12,15 +12,15 @@ Qiskit is an open source SDK for working with quantum computers at the level of 
 You can also contribute to the development of Qiskit [here](https://github.com/qiskit)
 
 ## Qiskit Community
-The Qiskit community is one of the world's largest quantum computing communities. Here's how you can get involved
+The Qiskit community is one of the world's largest quantum computing communities. Here's how you can be a part of the Qiskit community.
 * [Join the Qiskit Slack](https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g)
 * [Attend Qiskit Events](https://qiskit.org/events)
 * [Follow us on Twitter](https://twitter.com/Qiskit)
 
 ### Qiskit Advocates
-[Qiskit Advocates](https://qiskit.org/advocates) are members of an exclusive, global program that supports some of the Qiskit community’s most active contributors from over 30 countries. Advocates get special access to Qiskit core members, take on projects to improve the Qiskit community, and gain recognition from IBM. You can read more about the Qiskit Advocates program [here](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8)
+[Qiskit Advocates](https://qiskit.org/advocates) are members of an exclusive, global program that supports some of the Qiskit community’s most active contributors from over 30 countries. Advocates get special access to Qiskit core members, take on projects to improve the Qiskit community, and gain recognition from IBM. You can read more about the Qiskit Advocates program [here.](https://medium.com/qiskit/qiskit-advocate-applications-open-today-heres-what-you-can-expect-from-the-program-a1b7878f86b8)
 
-Don't forget to check out the [Qiskit Advocates Application Guide](https://github.com/qiskit-community/qiskit-advocate-application-guide)
+Don't forget to check out the [Qiskit Advocates Application Guide.](https://github.com/qiskit-community/qiskit-advocate-application-guide)
 
 ## Career
 Quantum Computing is an interdisciplinary field where people with a diverse skillset collaborate. Learn how to get a job in Quantum Computing with the links below.
