@@ -12,7 +12,7 @@ Qiskit is an open source SDK for working with quantum computers at the level of 
 You can also contribute to the development of Qiskit [here](https://github.com/qiskit)
 
 ## Qiskit Community
-The Qiskit community is one of the world's largest quantum computing communities. Here's how you can join us!
+The Qiskit community is one of the world's largest quantum computing communities. Here's how you can be a part of the Qiskit community.
 * [Join the Qiskit Slack](https://join.slack.com/t/qiskit/shared_invite/zt-mzwbsrki-9gcLoxprMkFNm9kgHYBP8g)
 * [Attend Qiskit Events](https://qiskit.org/events)
 * [Follow us on Twitter](https://twitter.com/Qiskit)
@@ -27,6 +27,7 @@ Quantum Computing is an interdisciplinary field where people with a diverse skil
 * [How to Get a Job in Quantum Computing - Career Panel](https://www.youtube.com/watch?v=7dfw8k2p1to)
 * [The Hitchhiking Cat’s Guide to Getting a Job in Quantum Computing](https://medium.com/qiskit/the-hitchhiking-cats-guide-to-getting-a-job-in-quantum-computing-da7e3bb9ff64)
 * [We Asked Experts Their Advice for Getting a Job in Quantum Computing](https://medium.com/qiskit/we-asked-experts-their-advice-for-getting-a-job-in-quantum-computing-2f55e9785a6b)
+* [IBM Quantum Career Roles](https://github.com/IBM/quantum-careers]
 
 ## Useful Links
 * [Qiskit Medium Blog](https://medium.com/qiskit)
