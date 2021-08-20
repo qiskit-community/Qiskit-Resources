@@ -29,7 +29,7 @@ Quantum Computing is an interdisciplinary field where people with a diverse skil
 * [How to Get a Job in Quantum Computing - Career Panel](https://www.youtube.com/watch?v=7dfw8k2p1to)
 * [The Hitchhiking Cat’s Guide to Getting a Job in Quantum Computing](https://medium.com/qiskit/the-hitchhiking-cats-guide-to-getting-a-job-in-quantum-computing-da7e3bb9ff64)
 * [We Asked Experts Their Advice for Getting a Job in Quantum Computing](https://medium.com/qiskit/we-asked-experts-their-advice-for-getting-a-job-in-quantum-computing-2f55e9785a6b)
-* [IBM Quantum Career Roles](https://github.com/IBM/quantum-careers]
+* [IBM Quantum Career Roles](https://github.com/IBM/quantum-careers)
 
 ## Useful Links
 * [Qiskit Medium Blog](https://medium.com/qiskit)
